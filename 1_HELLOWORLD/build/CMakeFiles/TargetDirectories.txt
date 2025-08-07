@@ -1,3 +1,0 @@
-/home/gean/learn-cmake/1_HELLOWORLD/build/CMakeFiles/Executable.dir
-/home/gean/learn-cmake/1_HELLOWORLD/build/CMakeFiles/edit_cache.dir
-/home/gean/learn-cmake/1_HELLOWORLD/build/CMakeFiles/rebuild_cache.dir
